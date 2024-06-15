@@ -1,0 +1,8 @@
+{
+    "secure-mode": "true",
+    "default-port": 1000,
+    "default-max-clients": 100,
+    "client-server-encryption": "true" ,
+    "encryption-algo" : "RSA",
+    "hashing-algo" : "sha3_512"
+}
